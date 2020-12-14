@@ -8,7 +8,8 @@ and from: https://data.detroitmi.gov/
 THIS IS A WORK IN PROGRESS
 
 *****Update as of 12/13/2020: I will be uploading a few new excel files shortly, along with some python files analyzing house sale price and crime
-by both zip code and trends over time. 
+by both zip code and trends over time. "combined_data.xlsx" is the first of these files and includes a regression of the sum of violent crime onto
+house sale price. I will be duplicating this in python and performing a little more analysis, again, just for illustration purposes.
 
 There are several Tableau images in this repo. Those were created for illustration purposes only. The first image shows the number of violent
 crimes vs. the average sale price. This includes all counties in Detroit for which I had data for both. The second image shows the sum of the
@@ -18,3 +19,5 @@ The "Detroit Data (stata and eviews ...)" excel file has regression outputs from
 at using zip code as a categorical variable to determine if the number of violent crimes impacted the selling price of houses. 
 I would not use this approach again but I chose to include it for the benefit of anyone interested. As per the above update, 
 I am working on a better way to look at this data.
+
+*****NOTHING IN THIS REPO IS INTENDED TO INFLUENCE ANY OPINIONS OR PUBLIC POLICY. THIS IS A PORTFOLIO PROJECT INTENDED TO SHOWCASE SKILLS AND ABILITIES.
